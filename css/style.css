@@ -1,0 +1,22 @@
+body{
+  font-family: 'Source Sans Pro', sans-serif;
+  text-align: center;
+}
+.safe{
+  position: absolute;
+  left: 50px;
+  top: 80px;
+}
+h1{
+  margin-top: 200px;
+  font-size: 50px;
+  font-style: italic;
+  color: #177d00;
+}
+#psw{
+  color: #b49300;
+}
+p{
+  color: #737272;;
+  font-weight: 700;
+}
